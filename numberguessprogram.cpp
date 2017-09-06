@@ -1,5 +1,4 @@
 /*
-Nick Hannon CS110B
 numberguessprogram.cpp
 This is the primary program for the number guess program.
 The file is accompanied by 'numberguess.h' and 'numberguess.cpp'.
