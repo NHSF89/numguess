@@ -1,5 +1,4 @@
 /*
-Nick Hannon CS110B
 numberguess.cpp
 This is the accompanying code that 
 gives meaning to the functions of numberguess.h
