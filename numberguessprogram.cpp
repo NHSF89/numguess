@@ -7,7 +7,7 @@ The file is accompanied by 'numberguess.h' and 'numberguess.cpp'.
 #include <iostream>
 #include <iomanip>
 #include <cstdlib>
-#include "numberguess.h"
+#include "numberguess.cpp"
 
 using namespace std;
 
